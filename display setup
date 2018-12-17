@@ -1,0 +1,18 @@
+[disp_init]
+disp_init_enable = 1
+disp_mode = 0
+screen0_output_type = 3
+screen0_output_mode = 5
+screen1_output_type = 3
+screen1_output_mode = 5
+fb0_width = 800
+fb0_height = 480
+fb1_width = 800
+fb1_height = 480
+ 
+[hdmi_para]
+hdmi_used = 1
+hdmi_x = 800
+hdmi_y = 480
+hdmi_power = "vcc-hdmi-18"
+hdmi_cts_compatibility = 1
